@@ -1,0 +1,9 @@
+MS SQL SERVER 
+==============
+db pass : Year@2024986532
+user name: sa
+
+collab14600 - dbname
+
+
+
